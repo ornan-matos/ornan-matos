@@ -7,10 +7,9 @@ Engenheiro de software com habilidade em Shell Script, Docker, Git, Gitlab, Micr
 [![last commit][5]][5]
 [![code size][6]][6]
 [![open issues][2]][2]
-[![license][3]][3]
 [![build][4]][4]
 [![github streak][25]][25]
-[![total contributions][26]][26]
+[![license][3]][3]
 
 
 
@@ -33,34 +32,35 @@ Engenheiro de software com habilidade em Shell Script, Docker, Git, Gitlab, Micr
 [17]: https://custom-icon-badges.demolab.com/badge/-123--456--7890-orange?style=for-the-badge&logo=phone&logoColor=white
 [18]: https://custom-icon-badges.demolab.com/badge/-hermione@spew.co.uk-red?style=for-the-badge&logo=mention&logoColor=white
 [19]: https://custom-icon-badges.demolab.com/badge/Colorado-USA-purple?style=for-the-badge&logo=location&logoColor=white
+[20]: https://custom-icon-badges.demolab.com/badge/-Open%20Issue-palegreen?style=for-the-badge&logoColor=black&logo=issue-opened
 [21]: https://custom-icon-badges.demolab.com/badge/-Discuss-plum?style=for-the-badge&logo=comment-discussion&logoColor=black
 [25]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DDenverCoder1%26type%3Djson
 [26]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DDenverCoder1%26type%3Djson
 
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.youtube.com/@OrnanDev?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.youtube.com/@OrnanDev">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/ornan-matos?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/ornan-matos?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
