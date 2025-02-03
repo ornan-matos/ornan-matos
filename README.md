@@ -4,11 +4,6 @@
 Engenheiro de software com habilidade em Shell Script, Docker, Git, Gitlab, Microsoft Azure, Amazon AWS. Familiarizado com metodologias ágeis e organização de projetos. Conhecimentos em algoritmos e estrutura de dados. Proativo e em busca de oportunidades para ampliar minha experiência como desenvolvedor. Meus projetos foram construídos usando as seguintes tecnologias: C, C#, Rust, Go, Python, HTML, CSS, SQL, Nodejs.
 "Para me conhecer mais sobre os meus aspectos profissionais visite meu site, chamado "[Ornan.Dev](https://ornan.dev)".
 
-
-
-## 🚀 Example Usage
-
-Click to get the URL!
 [![last commit][5]][5]
 [![code size][6]][6]
 [![open issues][2]][2]
