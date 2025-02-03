@@ -4,6 +4,45 @@
 Engenheiro de software com habilidade em Shell Script, Docker, Git, Gitlab, Microsoft Azure, Amazon AWS. Familiarizado com metodologias ágeis e organização de projetos. Conhecimentos em algoritmos e estrutura de dados. Proativo e em busca de oportunidades para ampliar minha experiência como desenvolvedor. Meus projetos foram construídos usando as seguintes tecnologias: C, C#, Rust, Go, Python, HTML, CSS, SQL, Nodejs.
 "Para me conhecer mais sobre os meus aspectos profissionais visite meu site, chamado "[Ornan.Dev](https://ornan.dev)".
 
+
+
+## 🚀 Example Usage
+
+Click to get the URL!
+[![last commit][5]][5]
+[![code size][6]][6]
+[![open issues][2]][2]
+[![license][3]][3]
+[![build][4]][4]
+[![github streak][25]][25]
+[![total contributions][26]][26]
+
+
+
+[![my repos][15]][15]
+[![phone][17]][17]
+[![email][18]][18]
+[![open issue][20]][20]
+[![discuss][21]][21]
+[![location][19]][19]
+
+
+
+[2]: https://custom-icon-badges.demolab.com/github/issues-raw/DenverCoder1/custom-icon-badges?logo=issue
+[3]: https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law
+[4]: https://custom-icon-badges.demolab.com/github/actions/workflow/status/DenverCoder1/custom-icon-badges/ci.yml?branch=main&logo=check-circle-fill&logoColor=white
+[5]: https://custom-icon-badges.demolab.com/github/last-commit/DenverCoder1/custom-icon-badges?logo=history&logoColor=white
+[6]: https://custom-icon-badges.demolab.com/github/languages/code-size/DenverCoder1/custom-icon-badges?logo=file-code&logoColor=white
+[15]: https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo
+[16]: https://custom-icon-badges.demolab.com/badge/-Download-F25278?style=for-the-badge&logo=download&logoColor=white
+[17]: https://custom-icon-badges.demolab.com/badge/-123--456--7890-orange?style=for-the-badge&logo=phone&logoColor=white
+[18]: https://custom-icon-badges.demolab.com/badge/-hermione@spew.co.uk-red?style=for-the-badge&logo=mention&logoColor=white
+[19]: https://custom-icon-badges.demolab.com/badge/Colorado-USA-purple?style=for-the-badge&logo=location&logoColor=white
+[21]: https://custom-icon-badges.demolab.com/badge/-Discuss-plum?style=for-the-badge&logo=comment-discussion&logoColor=black
+[25]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DDenverCoder1%26type%3Djson
+[26]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DDenverCoder1%26type%3Djson
+
+
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
