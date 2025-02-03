@@ -31,6 +31,7 @@ Engenheiro de software com habilidade em Shell Script, Docker, Git, Gitlab, Micr
 [15]: https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo
 [16]: https://custom-icon-badges.demolab.com/badge/-Download-F25278?style=for-the-badge&logo=download&logoColor=white
 [17]: https://custom-icon-badges.demolab.com/badge/-+55(74)99920-6828-orange?style=for-the-badge&logo=phone&logoColor=white
+
 [18]: https://custom-icon-badges.demolab.com/badge/-ornanmatos@outlook.com-red?style=for-the-badge&logo=mention&logoColor=white
 [19]: https://custom-icon-badges.demolab.com/badge/SALVADOR-BR-purple?style=for-the-badge&logo=location&logoColor=white
 [20]: https://custom-icon-badges.demolab.com/badge/-Open%20Issue-palegreen?style=for-the-badge&logoColor=black&logo=issue-opened
