@@ -11,14 +11,15 @@ Engenheiro de software com habilidade em Shell Script, Docker, Git, Gitlab, Micr
 [![github streak][25]][25]
 [![license][3]][3]
 
-
+---
 
 [![my repos][15]][15]
 [![phone][17]][17]
 [![email][18]][18]
-[![open issue][20]][20]
-[![discuss][21]][21]
 [![location][19]][19]
+<!--[![open issue][20]][20]
+ [![discuss][21]][21]-->
+
 
 
 
@@ -29,9 +30,9 @@ Engenheiro de software com habilidade em Shell Script, Docker, Git, Gitlab, Micr
 [6]: https://custom-icon-badges.demolab.com/github/languages/code-size/DenverCoder1/custom-icon-badges?logo=file-code&logoColor=white
 [15]: https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo
 [16]: https://custom-icon-badges.demolab.com/badge/-Download-F25278?style=for-the-badge&logo=download&logoColor=white
-[17]: https://custom-icon-badges.demolab.com/badge/-123--456--7890-orange?style=for-the-badge&logo=phone&logoColor=white
-[18]: https://custom-icon-badges.demolab.com/badge/-hermione@spew.co.uk-red?style=for-the-badge&logo=mention&logoColor=white
-[19]: https://custom-icon-badges.demolab.com/badge/Colorado-USA-purple?style=for-the-badge&logo=location&logoColor=white
+[17]: https://custom-icon-badges.demolab.com/badge/- +55 (74) 99920-6828 -orange?style=for-the-badge&logo=phone&logoColor=white
+[18]: https://custom-icon-badges.demolab.com/badge/-ornanmatos@outlook.com-red?style=for-the-badge&logo=mention&logoColor=white
+[19]: https://custom-icon-badges.demolab.com/badge/SALVADOR-BR-purple?style=for-the-badge&logo=location&logoColor=white
 [20]: https://custom-icon-badges.demolab.com/badge/-Open%20Issue-palegreen?style=for-the-badge&logoColor=black&logo=issue-opened
 [21]: https://custom-icon-badges.demolab.com/badge/-Discuss-plum?style=for-the-badge&logo=comment-discussion&logoColor=black
 [25]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DDenverCoder1%26type%3Djson
