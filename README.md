@@ -169,7 +169,7 @@ Engenheiro de software com habilidade em Shell Script, Docker, Git, Gitlab, Micr
 ### 📊 Estatísticas
 
 
-<p style="display: flex; flex-direction: column; align-items: center;">
+<p style="align-items: center;">
 
 <!--
 <img 
