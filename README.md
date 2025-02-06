@@ -162,13 +162,12 @@ Engenheiro de software com habilidade em Shell Script, Docker, Git, Gitlab, Micr
   <img alt="CSS" title="CSS" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 
 </div>
-<br/>
 
 ---
 
 ### 📊 Estatísticas
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <img 
     style="max-width: 100%; height: auto;" 
     src="https://streak-stats.demolab.com?user=ornan-matos&theme=transparent&locale=pt_BR" 
