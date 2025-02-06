@@ -170,19 +170,23 @@ Engenheiro de software com habilidade em Shell Script, Docker, Git, Gitlab, Micr
 
 
 <p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img 
-    alt="GitHub Stats" 
-    style="max-width: 100%; height: auto; padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ornan-matos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="GitHub Top Langs" 
+<!--
+<img 
     style="max-width: 100%; height: auto;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ornan-matos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    alt="Linguagens Mais Usadas" 
   />
-  <img
-    alt="GitHub Streak" 
+  <img 
     style="max-width: 100%; height: auto;" 
-    src="https://streak-stats.demolab.com?user=ornan-matos&theme=dark&hide_border=true"  
+    src="https://github-readme-stats.vercel.app/api?username=ornan-matos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    alt="GitHub Stats" 
   />
+  -->
+  <img 
+    style="max-width: 100%; height: auto; " 
+    src="https://streak-stats.demolab.com?user=ornan-matos&theme=transparent&locale=pt_BR" 
+    alt="GitHub Streak" 
+  />
+  
 </p>
+
