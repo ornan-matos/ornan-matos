@@ -6,9 +6,6 @@ Engenheiro de software com habilidade em Shell Script, Docker, Git, Gitlab, Micr
 
 
 
-
-
-
 <p align="left">
     <a href="https://github.com/ornan-matos/Learning_Log/graphs/commit-activity" target="_blank">
         <img 
@@ -119,162 +116,52 @@ Engenheiro de software com habilidade em Shell Script, Docker, Git, Gitlab, Micr
 -->
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="AWS"
-    title="AWS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-ptyrjxdo.png" 
-/>
-<img 
-    align="left" 
-    alt="AZURE"
-    title="AZURE" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="dot-net" 
-    title="dot-net"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Linux"
-    title="Linux" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="datagrip" 
-    title="datagrip"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Golang" 
-    title="Golang"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Nodejs" 
-    title="Nodejs"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Gitlab" 
-    title="Gitlab"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Podman" 
-    title="Podman"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Podman" 
-    title="Podman"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Kubernetes" 
-    title="Kubernetes"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" 
-/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+  <img alt="AWS" title="AWS" width="40" style="height: auto;" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-ptyrjxdo.png"/>
+  
+  <img alt="AZURE" title="AZURE" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
+  
+  <img alt="C#" title="C#" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+  
+  <img alt="dot-net" title="dot-net" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg"/>
+  
+  <img alt="C" title="C" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+  
+  <img alt="Linux" title="Linux" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<br/>
-<br/>
+  <img alt="Bash" title="Bash" width="40" style="height: auto;" src="https://img.icons8.com/color/512/bash.png"/>
+
+  <img alt="RedHat" title="RedHat" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg"/>
+  
+  <img alt="SQL" title="SQL" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+  
+  <img alt="datagrip" title="datagrip" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg"/>
+  
+  <img alt="Python" title="Python" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  
+  <img alt="Golang" title="Golang" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/>
+  
+  <img alt="Nodejs" title="Nodejs" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+  
+  <img alt="Gitlab" title="Gitlab" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"/>
+  
+  
+  <img alt="Docker" title="Docker" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"/>
+  
+  <img alt="Podman" title="Podman" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg"/>
+  
+  <img alt="Nginx" title="Nginx" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg"/>
+  
+  <img alt="Kubernetes" title="Kubernetes" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"/>
+  
+  <img alt="Git" title="Git" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  
+  <img alt="HTML" title="HTML" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  
+  <img alt="CSS" title="CSS" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+
+</div>
 <br/>
 
 ---
