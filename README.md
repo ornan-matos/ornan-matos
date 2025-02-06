@@ -13,33 +13,54 @@ Engenheiro de software com habilidade em Shell Script, Docker, Git, Gitlab, Micr
 
 ---
 
-[![my repos][15]][15]
-[![phone][17]][17]
-[![email][18]][18]
-[![location][19]][19]
-<!--[![open issue][20]][20]
- [![discuss][21]][21]-->
-
-
-
 
 [2]: https://custom-icon-badges.demolab.com/github/issues-raw/DenverCoder1/custom-icon-badges?logo=issue
 [3]: https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law
 [4]: https://custom-icon-badges.demolab.com/github/actions/workflow/status/DenverCoder1/custom-icon-badges/ci.yml?branch=main&logo=check-circle-fill&logoColor=white
 [5]: https://custom-icon-badges.demolab.com/github/last-commit/DenverCoder1/custom-icon-badges?logo=history&logoColor=white
 [6]: https://custom-icon-badges.demolab.com/github/languages/code-size/DenverCoder1/custom-icon-badges?logo=file-code&logoColor=white
-[15]: https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo
 [16]: https://custom-icon-badges.demolab.com/badge/-Download-F25278?style=for-the-badge&logo=download&logoColor=white
-[17]: https://custom-icon-badges.demolab.com/badge/-+55--(74)--99920--6828-orange?style=for-the-badge&logo=phone&logoColor=white
 
-[18]: https://custom-icon-badges.demolab.com/badge/-ornanmatos@outlook.com-red?style=for-the-badge&logo=mention&logoColor=white
-[19]: https://custom-icon-badges.demolab.com/badge/SALVADOR-BR-purple?style=for-the-badge&logo=location&logoColor=white
 [20]: https://custom-icon-badges.demolab.com/badge/-Open%20Issue-palegreen?style=for-the-badge&logoColor=black&logo=issue-opened
 [21]: https://custom-icon-badges.demolab.com/badge/-Discuss-plum?style=for-the-badge&logo=comment-discussion&logoColor=black
 [25]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DDenverCoder1%26type%3Djson
 [26]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DDenverCoder1%26type%3Djson
 
 
+
+<p align="left">
+    <a href="https://www.github.com/ornan-matos">
+        <img 
+            alt="my repos" 
+            title="Repositórios" 
+            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
+        />
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=5574999206828">
+        <img 
+            alt="whatsapp" 
+            title="Whatsapp" 
+            src="https://custom-icon-badges.demolab.com/badge/-+55--(74)--99920--6828-orange?style=for-the-badge&logo=phone&logoColor=white"
+        />
+    </a> 
+    <a href="https://github.com/ornan-matos?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/badge/-ornanmatos@outlook.com-red?style=for-the-badge&logo=mention&logoColor=white"
+        />
+    </a>
+    <a href="https://maps.app.goo.gl/1YvrDYzN5BzR2hrJ8">
+        <img 
+            alt="Localização" 
+            title="Brasil" 
+            src="https://custom-icon-badges.demolab.com/badge/SALVADOR-BR-purple?style=for-the-badge&logo=location&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+<!--
 <p align="left">
     <a href="https://www.youtube.com/@OrnanDev?sub_confirmation=1">
         <img 
@@ -71,8 +92,8 @@ Engenheiro de software com habilidade em Shell Script, Docker, Git, Gitlab, Micr
     </a>
 </p>
 
----
 
+-->
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -190,8 +211,12 @@ Engenheiro de software com habilidade em Shell Script, Docker, Git, Gitlab, Micr
 
 <br/>
 <br/>
+<br/>
+
+---
 
 ### 📊 Estatísticas
+
 
 <p>
   <img 
