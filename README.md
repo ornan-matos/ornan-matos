@@ -116,7 +116,7 @@ Engenheiro de software com habilidade em Shell Script, Docker, Git, Gitlab, Micr
 -->
 ### 🤖 Linguagens e Tecnologias
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
 
   <img alt="AWS" title="AWS" width="40" style="height: auto;" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-ptyrjxdo.png"/>
   
