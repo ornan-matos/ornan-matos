@@ -170,11 +170,11 @@ Engenheiro de software com habilidade em Shell Script, Docker, Git, Gitlab, Micr
 
 
 <div align="center">
-  <img 
-    style="max-width: 100%; height: auto;" 
-    src="https://streak-stats.demolab.com?user=ornan-matos&theme=transparent&hide_border=true&locale=pt_BR" 
-    alt="GitHub Streak" 
-  /> 
+    <a href="https://git.io/streak-stats">
+    <img 
+    src="https://streak-stats.demolab.com?user=ornan-matos&theme=transparent&hide_border=true&locale=pt_BR" alt="GitHub Streak" 
+    />
+    </a>
 </div>
 
 
