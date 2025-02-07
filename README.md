@@ -49,7 +49,7 @@ Engenheiro de software com habilidade em Shell Script, Docker, Git, Gitlab, Micr
 
 ---
 <p align="left">
-    <a href="https://www.github.com/ornan-matos" target="_blank">
+    <a href="https://github.com/ornan-matos?tab=repositories" target="_blank">
         <img 
             alt="my repos" 
             title="Repositórios" 
@@ -63,7 +63,7 @@ Engenheiro de software com habilidade em Shell Script, Docker, Git, Gitlab, Micr
             src="https://custom-icon-badges.demolab.com/badge/-+55--(74)--99920--6828-orange?style=for-the-badge&logo=phone&logoColor=white"
         />
     </a> 
-    <a href="https://github.com/ornan-matos?tab=repositories&sort=stargazers" target="_blank">
+    <a href="mailto:ornanmatos@outlook.com"target="_blank">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
