@@ -132,11 +132,7 @@ Engenheiro de software com habilidade em Shell Script, Docker, Git, Gitlab, Micr
 
   <img alt="Bash" title="Bash" width="40" style="height: auto;" src="https://img.icons8.com/color/512/bash.png"/>
 
-  <img alt="RedHat" title="RedHat" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg"/>
-  
   <img alt="SQL" title="SQL" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
-  
-  <img alt="datagrip" title="datagrip" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg"/>
   
   <img alt="Python" title="Python" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   
