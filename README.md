@@ -147,8 +147,9 @@ Para conhecer mais sobre os meus aspectos profissionais visite meu site, chamado
   
   <img alt="Podman" title="Podman" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg"/>
   
-  <img alt="Nginx" title="Nginx" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg"/>
-  
+<!--  <img alt="Nginx" title="Nginx" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg"/>
+-->
+
   <img alt="Kubernetes" title="Kubernetes" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"/>
   
   <img alt="Git" title="Git" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
