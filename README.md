@@ -11,7 +11,7 @@ Para conhecer mais sobre os meus aspectos profissionais visite meu site, chamado
         <img 
             alt="last commit" 
             title="last commit" 
-            src="https://custom-icon-badges.demolab.com/github/last-commit/ornan-matos/Learning_Log/custom-icon-badges?logo=history&logoColor=white"
+            src="https://img.shields.io/github/last-commit/ornan-matos/Learning_Log?logo=git"
         />
     </a>
     <a href="https://github.com/ornan-matos/Learning_Log" target="_blank">
