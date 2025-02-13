@@ -163,29 +163,22 @@ Para conhecer mais sobre os meus aspectos profissionais visite meu site, chamado
 
 ### 📊 Estatísticas
 
-
-
 <div align="center">
-    <a href="https://git.io/streak-stats">
+
+
+<img 
+    width=390 
+    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ornan-matos&count_private=true&theme=transparent&hide_border=true&locale=pt_BR" 
+    alt="streak stats"
+/>
+
+ <!--   <a href="https://git.io/streak-stats">
     <img 
     src="https://streak-stats.demolab.com?user=ornan-matos&theme=transparent&hide_border=true&locale=pt_BR" alt="GitHub Streak" 
     />
     </a>
+-->
 </div>
-
-
-<!--
-<p style="align-items: center;">
-
-
-
-  <img 
-    style="align-items: center; max-width: 100%; height: auto; " 
-    src="https://streak-stats.demolab.com?user=ornan-matos&theme=transparent&locale=pt_BR" 
-    alt="GitHub Streak" 
-  />
-  -->
-  
   
 </p>
 
