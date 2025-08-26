@@ -7,7 +7,7 @@ Para conhecer mais sobre os meus aspectos profissionais visite meu site, chamado
 
 
 <p align="left">
-    <a href="https://github.com/ornan-matos/Inventory/graphs/commit-activity" target="_blank">
+    <a href="https://github.com/ornan-matos/Learning_Log/graphs/commit-activity" target="_blank">
         <img 
             alt="last commit" 
             title="last commit" 
