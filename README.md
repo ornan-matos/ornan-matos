@@ -118,7 +118,7 @@ Para conhecer mais sobre os meus aspectos profissionais visite meu site, chamado
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
 
-  <img alt="AWS" title="AWS" width="40" style="height: auto;" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-ptyrjxdo.png"/>
+  <img alt="AWS" title="AWS" width="40" style="height: auto;" src="https://img.icons8.com/material-outlined/24/FFFFFF/amazon-web-services.png"/>
   
   <img alt="AZURE" title="AZURE" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
   
