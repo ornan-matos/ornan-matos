@@ -1,7 +1,12 @@
 # 👨‍💻 Ornan Matos
 
-**`Engenheiro de Software`**
-com habilidade em Shell Script, Docker, Git, Gitlab, Microsoft Azure, Amazon AWS. Familiarizado com metodologias ágeis e organização de projetos. Conhecimentos em algoritmos e estrutura de dados. Proativo e em busca de oportunidades para ampliar minha experiência como desenvolvedor. Meus projetos foram construídos usando as seguintes tecnologias: C, C#, Go, Python, HTML, CSS, SQL, Nodejs.
+**`Engenheiro DevOps`**
+com sólida experiência em infraestrutura híbrida, SRE e automação.
+Especialista em orquestração de containers (Kubernetes, Docker), IaC (Terraform, Ansible),
+cloud (OCI, AWS) e pipelines CI/CD (GitHub Actions, GitLab). Proficiente no desenvolvimento
+em Go, Python e Bash aliando-os a práticas de DevSecOps e observabilidade, atuando de
+forma proativa para garantir escalabilidade, segurança e alta disponibilidade dos serviços.
+<br>
 Para conhecer mais sobre os meus aspectos profissionais visite meu site, chamado "[Ornan.Dev](https://ornan.dev)".
 
 
