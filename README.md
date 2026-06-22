@@ -119,14 +119,10 @@ Para conhecer mais sobre os meus aspectos profissionais visite meu site, chamado
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
 
   <img alt="AWS" title="AWS" width="40" style="height: auto;" src="https://img.icons8.com/material-outlined/192/FFFFFF/amazon-web-services.png"/>
-  
+    
+  <img alt="Oracle OCI" title="Oracle OCI" width="40" style="height: auto;" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/oracle/oracle-original.svg"/>
+
   <img alt="AZURE" title="AZURE" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
-  
-  <img alt="C#" title="C#" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
-  
-  <img alt="dot-net" title="dot-net" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg"/>
-  
-  <img alt="Oracle OCI" title="C" width="40" style="height: auto;" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/oracle/oracle-original.svg"/>
   
   <img alt="Linux" title="Linux" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
 
@@ -137,8 +133,10 @@ Para conhecer mais sobre os meus aspectos profissionais visite meu site, chamado
   <img alt="Python" title="Python" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   
   <img alt="Golang" title="Golang" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/>
+
+  <img alt="Ansible" title="Ansible" width="40" style="height: auto;" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/ansible/ansible-plain.svg"/>
   
-  <img alt="Nodejs" title="Nodejs" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+  <img alt="Terraform" title="Terraform" width="40" style="height: auto;" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/terraform/terraform-original.svg"/>
   
   <img alt="Gitlab" title="Gitlab" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"/>
   
@@ -153,10 +151,6 @@ Para conhecer mais sobre os meus aspectos profissionais visite meu site, chamado
   <img alt="Kubernetes" title="Kubernetes" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"/>
   
   <img alt="Git" title="Git" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  
-  <img alt="HTML" title="HTML" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  
-  <img alt="CSS" title="CSS" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 
 </div>
 
