@@ -126,7 +126,7 @@ Para conhecer mais sobre os meus aspectos profissionais visite meu site, chamado
   
   <img alt="dot-net" title="dot-net" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg"/>
   
-  <img alt="C" title="C" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+  <img alt="Oracle OCI" title="C" width="40" style="height: auto;" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/oracle/oracle-original.svg"/>
   
   <img alt="Linux" title="Linux" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
 
