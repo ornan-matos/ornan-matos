@@ -7,6 +7,7 @@ cloud (OCI, AWS) e pipelines CI/CD (GitHub Actions, GitLab). Proficiente no dese
 em Go, Python e Bash aliando-os a práticas de DevSecOps e observabilidade, atuando de
 forma proativa para garantir escalabilidade, segurança e alta disponibilidade dos serviços.
 <br>
+<br>
 Para conhecer mais sobre os meus aspectos profissionais visite meu site, chamado "[Ornan.Dev](https://ornan.dev)".
 
 
