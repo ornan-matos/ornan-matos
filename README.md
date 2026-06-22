@@ -120,7 +120,7 @@ Para conhecer mais sobre os meus aspectos profissionais visite meu site, chamado
 
   <img alt="AWS" title="AWS" width="40" style="height: auto;" src="https://img.icons8.com/material-outlined/192/FFFFFF/amazon-web-services.png"/>
     
-  <img alt="Oracle OCI" title="Oracle OCI" width="40" style="height: auto;" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/oracle/oracle-original.svg"/>
+  <img alt="Oracle OCI" title="Oracle OCI" width="40" style="height: auto;" src="https://oracle.gallerycdn.vsassets.io/extensions/oracle/oci-vscode-toolkit/1.4.0/1762938767850/Microsoft.VisualStudio.Services.Icons.Default"/>
 
   <img alt="AZURE" title="AZURE" width="40" style="height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
   
