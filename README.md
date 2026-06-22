@@ -56,13 +56,13 @@ Para conhecer mais sobre os meus aspectos profissionais visite meu site, chamado
             src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a>
-    <a href="https://api.whatsapp.com/send?phone=5574999206828" target="_blank">
+    <!--<a href="https://api.whatsapp.com/send?phone=5574999206828" target="_blank">
         <img 
             alt="whatsapp" 
             title="Whatsapp" 
             src="https://custom-icon-badges.demolab.com/badge/-+55--(74)--99920--6828-orange?style=for-the-badge&logo=phone&logoColor=white"
         />
-    </a> 
+    </a> -->
     <a href="mailto:ornanmatos@outlook.com"target="_blank">
         <img 
             alt="Total de estrelas" 
