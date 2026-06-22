@@ -74,7 +74,7 @@ Para conhecer mais sobre os meus aspectos profissionais visite meu site, chamado
         <img 
             alt="Localização" 
             title="Brasil" 
-            src="https://custom-icon-badges.demolab.com/badge/SALVADOR-BR-purple?style=for-the-badge&logo=location&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/GUARULHOS-SP-purple?style=for-the-badge&logo=location&logoColor=white"
         />
     </a>
 </p>
